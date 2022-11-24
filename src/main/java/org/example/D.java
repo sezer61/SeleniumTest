@@ -2,7 +2,7 @@ package org.example;
 
 public class D {
     public static void main(String[] args) {
-        String st="Javsüüdd";
+        String st="Jasüüdd";
         System.out.println(st.isEmpty());
 
 
